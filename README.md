@@ -25,7 +25,7 @@ cbc -n
 > 新建API
 
 ```
-ycs -a
+cbc -a
 ```
 
 # TODO
