@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const cbc = require('../lib/index');
+
+cbc.startProgram(process.argv);
